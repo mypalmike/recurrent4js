@@ -1,0 +1,14 @@
+{
+  "name": "@mypalmike/recurrent4js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "xregexp": "^5.1.1"
+  }
+}
